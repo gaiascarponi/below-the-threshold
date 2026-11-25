@@ -1,0 +1,8 @@
+number of nodes:	418
+number of edges:	1734
+average node degree:	8.3
+avg. local clustering coefficient:	0.421
+expected number of edges:	1405
+PPI enrichment p-value:	< 1.0e-16
+your network has significantly more interactions
+than expected (what does that mean?)

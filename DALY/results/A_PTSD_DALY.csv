@@ -1,0 +1,8 @@
+"measure","median","low_95","high_95","axis","condition"
+"DALY per case per year",0.103895586738097,0.0782181947584501,0.133640187566306,"A","PTSD (US civilian adults)"
+"PTSD cases",10148905.4966391,9390374.45244365,10947904.9275417,"A","PTSD (US civilian adults)"
+"DALY per year",1054700.20655005,787731.863519024,1362786.01137325,"A","PTSD (US civilian adults)"
+"DALY per 100,000 adults per year",466.155907810434,348.161363456119,602.323528845268,"A","PTSD (US civilian adults)"
+"Monetized DALY per case, USD 2024",12872.1544779864,8908.67767455398,17914.9817040046,"A","PTSD (US civilian adults)"
+"Davis 2022 direct health care cost per case, USD 2024",8113.71377454881,NA,NA,"A","PTSD (US civilian adults)"
+"Davis 2022 total societal cost per case, USD 2024",23285.5465369653,NA,NA,"A","PTSD (US civilian adults)"

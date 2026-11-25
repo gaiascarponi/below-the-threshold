@@ -1,0 +1,3 @@
+"test","statistic","df","p_value"
+"sex_x_group_chisq",0,1,1
+"age_Welch_t",-0.853854727768886,56.6789468763715,0.396779893171145

@@ -1,0 +1,4 @@
+"comparison","cells","test","min_expected","chisq","df","p_value"
+"sex_x_poverty","Female/No=55; Male/No=52; Female/Yes=49; Male/Yes=45","chisq",45.363184079602,0.0105566244725873,1,0.918165012292445
+"race_x_poverty","AfrAm/No=52; White/No=55; AfrAm/Yes=45; White/Yes=49","chisq",45.363184079602,0.0105566244725873,1,0.918165012292445
+"sex_x_race","Female/AfrAm=53; Male/AfrAm=44; Female/White=51; Male/White=53","chisq",46.8109452736318,0.630496682720999,1,0.427173185953195

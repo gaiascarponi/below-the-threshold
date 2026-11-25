@@ -1,0 +1,8 @@
+"measure","median","low_95","high_95","axis","condition"
+"DALY per case per year",0.103895586738097,0.0782181947584501,0.133640187566306,"B","PTSD (US military: active duty + veterans)"
+"PTSD cases",1656960.54131182,1421657.27546941,1912644.94853764,"B","PTSD (US military: active duty + veterans)"
+"DALY per year",171791.424802073,125349.879262369,230138.012064357,"B","PTSD (US military: active duty + veterans)"
+"DALY per 100,000 adults per year",748.932304600729,546.46833545708,1003.29682898997,"B","PTSD (US military: active duty + veterans)"
+"Monetized DALY per case, USD 2024",12844.3523984439,8937.25802130024,18062.5184259638,"B","PTSD (US military: active duty + veterans)"
+"Davis 2022 direct health care cost per case, USD 2024",7584.04254430883,NA,NA,"B","PTSD (US military: active duty + veterans)"
+"Davis 2022 total societal cost per case, USD 2024",32085.084616707,NA,NA,"B","PTSD (US military: active duty + veterans)"

@@ -1,0 +1,5 @@
+"measure","median","low_95","high_95","axis","condition"
+"PTSD cases, US adults 25+ (2023)",10037095.4395274,9288894.45066786,10826630.0063091,"A","PTSD, US adults 25+, 2023 (harmonized with axes C, D)"
+"DALY per year, US adults 25+ (2023)",1043158.81352234,778904.457691189,1348351.96221947,"A","PTSD, US adults 25+, 2023 (harmonized with axes C, D)"
+"DALY per 100,000 adults 25+ per year (2023)",449.930895072123,335.953811904555,581.565527098591,"A","PTSD, US adults 25+, 2023 (harmonized with axes C, D)"
+"GBD 2023 check: YLD per prevalent case, anxiety disorders, 25+",0.11175216510373,NA,NA,"A","PTSD, US adults 25+, 2023 (harmonized with axes C, D)"

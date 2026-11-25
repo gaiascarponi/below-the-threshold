@@ -1,0 +1,10 @@
+"model","pathway","NES","pval","padj","size"
+"original (~ sex + condition)","WTC_down",-2.05851925117726,5.19404891680175e-11,1.55821467504053e-10,281
+"original (~ sex + condition)","WTC_all",-1.46108390908488,0.00035339640414015,0.000530094606210226,446
+"original (~ sex + condition)","WTC_up",1.46765206855047,0.00512313615029557,0.00512313615029557,165
+"reduced (sex + cs_mono + cs_ery + condition)","WTC_down",-1.9126019215183,2.02694055848117e-08,6.08082167544351e-08,281
+"reduced (sex + cs_mono + cs_ery + condition)","WTC_up",1.60213753628795,0.000722365563798463,0.00108354834569769,165
+"reduced (sex + cs_mono + cs_ery + condition)","WTC_all",-1.25536286185431,0.0177580771755738,0.0177580771755738,446
+"full (sex + cs_T + cs_B + cs_NK + cs_mono + cs_neu + cs_ery + cs_plt + condition)","WTC_down",-1.46208587888893,0.00184931834315605,0.00554795502946814,281
+"full (sex + cs_T + cs_B + cs_NK + cs_mono + cs_neu + cs_ery + cs_plt + condition)","WTC_all",-1.1196660206475,0.155887230514096,0.233830845771144,446
+"full (sex + cs_T + cs_B + cs_NK + cs_mono + cs_neu + cs_ery + cs_plt + condition)","WTC_up",0.966180109772907,0.556844547563805,0.556844547563805,165

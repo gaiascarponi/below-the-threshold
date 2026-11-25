@@ -1,0 +1,5 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+AHCYL2	ARHGAP24	9606.ENSP00000315931	9606.ENSP00000378611	0	0	0	0	0.058	0.457	0	0	0.466
+ARHGAP24	KANK1	9606.ENSP00000378611	9606.ENSP00000477725	0	0	0	0	0.060	0	0	0.409	0.420
+GABBR1	GABRR2	9606.ENSP00000366233	9606.ENSP00000386029	0	0	0	0	0	0	0.540	0.124	0.579
+STX8	TMED8	9606.ENSP00000305255	9606.ENSP00000216468	0	0	0	0	0.060	0.798	0	0	0.802

@@ -1,0 +1,12 @@
+number of nodes:	392
+number of edges:	1166
+average node degree:	5.95
+avg. local clustering coefficient:	0.388
+expected number of edges:	885
+PPI enrichment p-value:	< 1.0e-16
+
+
+Input: input/A_DEG_all_noHistHb.txt (486 genes)
+Excluded 39 genes (HGNC groups: Hemoglobin subunits, H1/H2A/H2B/H3/H4 histones)
+37 histones (HIST1H…, HIST2H…, HIST4H4, H2AFX, H2AFZ, H2AFJ, H3F3C, H1FX)
+2 hemoglobins (HBZ, HBM)

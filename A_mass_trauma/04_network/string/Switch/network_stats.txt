@@ -1,0 +1,9 @@
+number of nodes:	40
+number of edges:	4
+average node degree:	0.2
+avg. local clustering coefficient:	0.15
+expected number of edges:	4
+PPI enrichment p-value:	0.52
+
+
+- no significant enrichment detected -

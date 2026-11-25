@@ -1,0 +1,5 @@
+"axis","n_input","ensembl","symbol","alias","loc_id","excel_recovered","excel_corrupted","ambiguous","unmapped","collapsed_duplicates","n_output"
+"A",19637,0,17336,1437,755,0,0,42,67,35,19493
+"B",16764,0,12262,1724,639,15,2,65,2057,72,14568
+"C",28056,22308,0,0,0,0,0,0,5748,6,22302
+"D",26639,0,16075,2135,1055,0,0,74,7300,38,19227
